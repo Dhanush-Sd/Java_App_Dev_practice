@@ -1,4 +1,4 @@
-package com.dhanush;
+package SimpleBankApp;
 
 public class Account {
     private String Number;
